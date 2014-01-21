@@ -3,14 +3,14 @@ InfoSci1073
 
 This is a Repo!  
 
-Jay Palat / vpalat@pitt.edu
+Jake Bachorski / jab301@pitt.edu
 ==================
 Three Facts About Me
 ---
 
-*   I enjoy reading.
-*   I am a Pitt Graduate.
-*   I have run a half-marathon.
+*   I am a senior.
+*   I play video games all day.
+*   I have a beard.
 
 ---
 Make some changes locally.  I want to add  a sentence.
